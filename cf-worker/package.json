@@ -1,0 +1,13 @@
+{
+  "name": "esp8266-gcal-worker",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seguri/esp8266-gcal-worker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seguri/esp8266-gcal-worker/issues"
+  },
+  "homepage": "https://github.com/seguri/esp8266-gcal-worker/cf-worker/#readme"
+}
